@@ -1,1 +1,1 @@
-This Roject Was Developed In React js ,Mysql , Express.js and Node.js
+This Poject Was Developed In React js ,Mysql , Express.js and Node.js
